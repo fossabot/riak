@@ -1,4 +1,6 @@
 #+SETUPFILE: "doc/basho-doc-style.iorg"
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Friak.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Friak?ref=badge_shield)
+
 
 Welcome to Riak.
 
@@ -38,6 +40,9 @@ strategies, and more, please visit our docs at http://docs.basho.com/.
 
    Assuming you have a working Erlang (R14B02 or later) installation,
    building Riak should be as simple as:
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Friak.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Friak?ref=badge_large)
 
 #+BEGIN_EXAMPLE
    $ cd $RIAK
